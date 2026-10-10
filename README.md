@@ -8,7 +8,7 @@ AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.
 
 
 
-## 💿 - Установка:
+## 💿 Установка:
 ### 📁 Для MuOs: 
 
 	1- mnt/mmc/ports/ - распаковываем папку chiaki из пути "Ваш диск и место куда вы распаковали архив"\AnChiaki 2.0-anbernic-RG40XXH-muOS-release\retro-chiaki-anbernic RG40XXH-Muos-release\ports  - на выходе имеем /mnt/mmc/ports/chiaki/
