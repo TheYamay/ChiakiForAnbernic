@@ -1,4 +1,4 @@
-# <img width="154" height="154" alt="image" src="https://github.com/user-attachments/assets/633edded-1ddc-4e99-bb3e-1850bf482c6a" /> Chiaki (PS Remote) for Anbernic RG 40XX H <img width="154" height="154" alt="image" src="https://github.com/user-attachments/assets/633edded-1ddc-4e99-bb3e-1850bf482c6a" />
+# <img width="154" height="154" alt="image" src="https://github.com/user-attachments/assets/633edded-1ddc-4e99-bb3e-1850bf482c6a" /> Chiaki (PS Remote) for Anbernic RG 40XX H
 AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.sr.ht/~thestr4ng3r/chiaki), в котором за основу был взят [репозиторий Retro Chiaki](https://github.com/ed-fruty/retro-chiaki#upstream-and-license), переписанный под устройство Anbernic RG 40XX H под две операционные системы кастомных прошивок [Mustard OS](https://muos.dev/release/current/2601_1#rg40xx-h) , а так же моей любимой [Stock Mod OS](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification)<sup>[!]</sup> .  
 <sub><b>[!]</b> Этот проект не одобрен и не сертифицирован Sony Interactive Entertainment. Вам нужен собственный аккаунт PS4 или PS5 и PSN </sub>  
 
