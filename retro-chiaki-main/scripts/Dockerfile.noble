@@ -1,0 +1,13 @@
+
+FROM ubuntu:noble
+
+RUN apt-get update
+# Hint: python3-setuptools should not be needed with nanopb >= 0.4.9
+RUN apt-get -y install git g++ cmake ninja-build curl pkg-config unzip \
+	python3-protobuf protobuf-compiler \
+	python3-setuptools \
+	libssl-dev libopus-dev qtbase5-dev qtmultimedia5-dev libqt5multimedia5-plugins libqt5svg5-dev \
+	libgl1-mesa-dev nasm libudev-dev libva-dev fuse libevdev-dev libudev-dev file
+
+CMD []
+

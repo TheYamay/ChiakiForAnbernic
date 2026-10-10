@@ -1,0 +1,26 @@
+[config]
+mouse_scale = 2048
+mouse_delay = 16
+mouse_slow_scale = 30
+deadzone_mode = axial
+deadzone_x = 1000
+deadzone_y = 1000
+deadzone_scale = 7
+deadzone_delay = 16
+
+dpad_mouse_normalize = true
+dpad_mouse_step = 5
+
+[controls]
+overlay = clear
+exclusive = false
+
+a = "esc"
+b = "mouse_left"
+x = "enter"
+y = "space"
+start = clear
+back = "tab"
+
+dpad = mouse_movement
+left_analog = mouse_movement
