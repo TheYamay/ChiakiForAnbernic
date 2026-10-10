@@ -1,6 +1,6 @@
-# Chiaki For Anbernic RG40XX H
-Chiaki (PS Remote) for Anbernic RG 40XX H
-AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.sr.ht/~thestr4ng3r/chiaki), в котором за основу был взят [репозиторий Retro Chiaki](https://github.com/ed-fruty/retro-chiaki#upstream-and-license), переписанный под устройство Anbernic RG 40XX H под две операционные системы кастомных прошивок [Mustard OS](https://muos.dev/release/current/2601_1#rg40xx-h) , а так же моей любимой [Stock Mod OS](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification)<sup>[1]</sup> . <sub><b>[1]</b> Этот проект не одобрен и не сертифицирован Sony Interactive Entertainment. Вам нужен собственный аккаунт PS4 или PS5 и PSN </sub>  
+# <img width="154" height="154" alt="image" src="https://github.com/user-attachments/assets/633edded-1ddc-4e99-bb3e-1850bf482c6a" /> Chiaki (PS Remote) for Anbernic RG 40XX H <img width="154" height="154" alt="image" src="https://github.com/user-attachments/assets/633edded-1ddc-4e99-bb3e-1850bf482c6a" />
+AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.sr.ht/~thestr4ng3r/chiaki), в котором за основу был взят [репозиторий Retro Chiaki](https://github.com/ed-fruty/retro-chiaki#upstream-and-license), переписанный под устройство Anbernic RG 40XX H под две операционные системы кастомных прошивок [Mustard OS](https://muos.dev/release/current/2601_1#rg40xx-h) , а так же моей любимой [Stock Mod OS](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification)<sup>[!]</sup> .  
+<sub><b>[!]</b> Этот проект не одобрен и не сертифицирован Sony Interactive Entertainment. Вам нужен собственный аккаунт PS4 или PS5 и PSN </sub>  
 
 ### Возможности:
 Для StockMod OS были переписаны окна под масштабы системы  
@@ -9,7 +9,7 @@ AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.
 
 
 ## 💿 - Установка:
-### Для MuOs: 
+### 📁 Для MuOs: 
 
 	1- mnt/mmc/ports/ - распаковываем папку chiaki из пути "Ваш диск и место куда вы распаковали архив"\AnChiaki 2.0-anbernic-RG40XXH-muOS-release\retro-chiaki-anbernic RG40XXH-Muos-release\ports  - на выходе имеем /mnt/mmc/ports/chiaki/
 
@@ -20,7 +20,7 @@ AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.
 
 <sub><b>❗</b>или если вы ставите на вторую флешку, а не на системную то путь куда распаковывать каталог меняется на: mnt/sdcard/ports/</sub>
 
-### Для StockMod Os:
+### 📁 Для StockMod Os:
 
 	1. Распаковываем \AnСhiaki-v2.0-RG40XXH-StockOS-MOD-release.zip\ports в папку /mnt/sdcard/roms/ports/ на выходе должно быть /mnt/sdcard/roms/ports/chiaki/
 	
@@ -29,35 +29,36 @@ AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.
 <sub><b>❗</b>или если вы ставите на первую системную, то путь куда распаковывать каталог меняется на: /mnt/mmc/Roms/PORTS/</sub>
 
 
-## 🕹️🕹️🕹️ - Управление:
+## 🕹️➡️🎮 Управление:
 ### Все клавиши сделаны как можно ближе к джойстику PS:		
 	
-	Anberic          Playstation
-	B        ➡️        ✕ 
-	Y        ➡️        □
-	X        ➡️        △
-	A        ➡️        ○
-	R1       ➡️        R1
-	R2       ➡️        R2
-	R3       ➡️        R3
-	L1       ➡️        L1
-	L2       ➡️        L2
-	L3       ➡️        L3
-	D-Pad    ➡️       D-Pad
-	M        ➡️      Сенсорная панель
-	SE       ➡️      Кнопка PS
-	ST       ➡️      Кнопка Option
+	 Anberic           Playstation  
+	   🎮                 🎮
+		B        ➡️        ✕ 
+		Y        ➡️        □
+		X        ➡️        △
+		A        ➡️        ○
+		R1       ➡️        R1
+		R2       ➡️        R2
+		R3       ➡️        R3
+		L1       ➡️        L1
+		L2       ➡️        L2
+		L3       ➡️        L3
+		D-Pad    ➡️       D-Pad
+		M        ➡️      Сенсорная панель
+		SE       ➡️      Кнопка PS
+		ST       ➡️      Кнопка Option
 
 ❗Выйти из приложения/стрима - М + Start
 
-## Настройка: 
+## ⚙️ Настройка: 
 1.Регистрируем консоль в своем аккаунте, необходимый id BASE64, можно получить c помощью [PSNTOOLS](https://www.psntools.com/psn/checker)
 
-2.Далее на ps 5 включаем дистанционную игру и вводим в anbernic pin код.   
+2.Далее на ps включаем дистанционную игру и вводим в anbernic pin код, который нам дала ps.   
 
 Примечание:  
 
-⚙️ Кнопка Wake - отправляет на консоль пакет WakeUp, эта кнопка специально была добавлена, если вы далее будете подключатся не во wifi сети, а с помощью хоста, ваша приставка находящаяся в режиме сна проснется.  
+⚙️ Кнопка Wake в меню Chiaki - отправляет на консоль пакет WakeUp, эта кнопка специально была добавлена, если вы далее будете подключатся не во wifi сети, а с помощью хоста, ваша приставка находящаяся в режиме сна проснется.  
 
 ⚙️ Для подключения к приставки вне сети в которой она находится, необходимо открыть порты на вашем роутере:  
 
@@ -71,6 +72,7 @@ AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.
 ## 🧋 Подержка проекта 🧋 
 
 Если вам понравилось приложение и вы ожидаете обновлений других интересных портов на Anberic RG40XXH, [поддержите проект](https://boosty.to/yamapsn/donate)  
-Спасибо за внимание!
+
+
 
 
