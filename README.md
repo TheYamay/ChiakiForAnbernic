@@ -1,6 +1,6 @@
 # <img width="154" height="154" alt="image" src="https://github.com/user-attachments/assets/633edded-1ddc-4e99-bb3e-1850bf482c6a" /> Chiaki (PS Remote) for Anbernic RG 40XX H
-AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.sr.ht/~thestr4ng3r/chiaki), в котором за основу был взят репозиторий [Retro Chiaki](https://github.com/ed-жfruty/retro-chiaki#upstream-and-license), переписанный под устройство Anbernic RG 40XX H под две операционные системы кастомных прошивок [Mustard OS](https://muos.dev/release/current/2601_1#rg40xx-h) , а так же моей любимой [Stock Mod OS](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification)<sup>[!]</sup> .  
-<sub><b>[!]</b> Этот проект не одобрен и не сертифицирован Sony Interactive Entertainment. Вам нужен собственный аккаунт PS4 или PS5 и PSN </sub>  
+AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.sr.ht/~thestr4ng3r/chiaki), в котором за основу был взят репозиторий [Retro Chiaki](https://github.com/ed-жfruty/retro-chiaki#upstream-and-license), переписанный под устройство Anbernic RG 40XX H под две операционные системы кастомных прошивок [Mustard OS](https://muos.dev/release/current/2601_1#rg40xx-h) , а так же моей любимой [Stock Mod OS](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification)<sup>🚨</sup> .  
+<sub><b>🚨</b> Этот проект не одобрен и не сертифицирован Sony Interactive Entertainment. Вам нужен собственный аккаунт PS4 или PS5 и PSN </sub>  
 
 ### 🛰️ Возможности программы:
 
@@ -69,12 +69,25 @@ AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.
 <img width="250" height="290" alt="image" src="https://github.com/user-attachments/assets/d04274e5-3c74-433c-b2b2-bb5cb7289e11" />
 
 
-❗а также иметь статичный (белый) IP❗ - который вы добавляте в поле host в приложении Chiaki
+❗а также иметь статичный (белый) IP❗ - который вы добавляте в поле host в приложении Chiaki  
+
+## 📷 Скриншоты:  
+
+<img width="500" height="250" alt="WhatsApp Image 2026-10-12 at 16 09 13" src="https://github.com/user-attachments/assets/ab3b6f50-95c0-407a-adee-d56334015a43" />    
+	<img width="500" height="250" alt="WhatsApp Image 2026-10-12 at 16 09 13 (1)" src="https://github.com/user-attachments/assets/7a5a6ec7-4f6c-4d2b-8694-c8f8765f473b" />  
+	<img width="500" height="250" alt="WhatsApp Image 2026-10-12 at 16 09 13 (2)" src="https://github.com/user-attachments/assets/3ad544e1-9208-4ceb-9acd-528c2f52c8ae" />  
+	<img width="500" height="250" alt="WhatsApp Image 2026-10-12 at 16 09 13 (3)" src="https://github.com/user-attachments/assets/bd34d89f-6f6c-4150-8f57-fbdbd26a1e35" />  
+	<img width="500" height="250" alt="WhatsApp Image 2026-10-12 at 16 09 13 (4)" src="https://github.com/user-attachments/assets/61d498f0-b125-4110-aff4-e00d0ebf5adb" />  
+	<img width="500" height="250" alt="WhatsApp Image 2026-10-12 at 16 09 13 (8)" src="https://github.com/user-attachments/assets/5ee1c97f-7c5d-444c-a86d-ef9aad697fae" />
+
+
+
+
 
 
 ## 🧋 Подержка проекта 🧋 
 
-Если вам понравилось приложение и вы ожидаете обновлений других интересных портов на Anberic RG40XXH, [поддержите проект](https://boosty.to/yamapsn/donate)  
+Если вам понравилось приложение и вы ожидаете обновлений других интересных портов на Anberic RG40XXH, [поддержите](https://boosty.to/yamapsn/donate) нас 🤗  
 
 
 
