@@ -6,11 +6,16 @@ AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.
 
 👨🏾‍💻 Для StockMod OS были переписаны окна, под масштабы экрана системы   
 
-🌐 Управление вашей Playstation из любой точки мира вашим карманным Anbernic RG40XX H
+🌐 Управление вашей Playstation из любой точки мира вашим карманным Anbernic RG40XX H<sup>🚨</sup>  
+ <sub><b>🚨</b> Если у вас на роутере постоянный IP и открыты порты (инструкция далее)
 
 
 
-## 💿 Установка:
+## 💿 Установка:  
+❗Заранее в Portmaster - Настройки - Менеджер среды исполнения - Скачать все❗  
+
+❗Обновить Portmaster до последней версии ❗  
+
 ### 📁 Для MuOs: 
 
 	1- mnt/mmc/ports/ - распаковываем папку chiaki из пути "Ваш диск и место куда вы распаковали архив"\AnChiaki 2.0-anbernic-RG40XXH-muOS-release\retro-chiaki-anbernic RG40XXH-Muos-release\ports  - на выходе имеем /mnt/mmc/ports/chiaki/
@@ -24,9 +29,9 @@ AnChiaki - это переделанный форк [Сhiaki 2.2.0](https://git.
 
 ### 📁 Для StockMod Os:
 
-	1. Распаковываем \AnСhiaki-v2.0-RG40XXH-StockOS-MOD-release.zip\ports в папку /mnt/sdcard/roms/ports/ на выходе должно быть /mnt/sdcard/roms/ports/chiaki/
+	1. Распаковываем \AnChiaki-StockOS-MOD-release.zip\ports в папку /mnt/sdcard/roms/ports/ на выходе должно быть /mnt/sdcard/roms/ports/chiaki/
 	
-	2. Распаковываем \AnСhiaki-v2.0-RG40XXH-StockOS-MOD-release.zip\ROMS\Ports\Chiaki.sh  в папку /mnt/sdcard/roms/ports/ на выходе /mnt/sdcard/roms/ports/Chiaki.sh
+	2. Распаковываем \AnChiaki-StockOS-MOD-release.zip\ROMS\Ports\Chiaki.sh  в папку /mnt/sdcard/roms/ports/ на выходе /mnt/sdcard/roms/ports/Chiaki.sh
 
 <sub><b>❗</b>или если вы ставите на первую sd (системную), то путь куда распаковывать каталог меняется на: /mnt/mmc/Roms/PORTS/</sub>
 
